@@ -1,0 +1,29 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<script>
+function unmute(){
+	document.getElementById("wakaflaka").muted = false
+	document.getElementById("unmute").remove()
+}
+</script>
+<link rel="stylesheet" href="kleerave.css">
+</head>
+<body>
+
+<div class="blink-bg">
+		
+		<div onclick="unmute()" id="unmute" class="unmute-box">
+			<p class="unmute-text"> CLICK TO UNMUTE </p>
+		</div>
+		<div class="wrapper2" >
+			<video loop autoplay muted id="wakaflaka" class="video">
+			<source src="kleerave.mp4" type="video/mp4"/>
+			</video>
+		<div/>
+
+
+</div>
+
+</body>
+</html> 
