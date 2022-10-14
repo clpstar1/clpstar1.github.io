@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.65cc63ec.css",
-    "main.js": "/static/js/main.01d44615.js",
-    "static/media/momiji-alpha.png": "/static/media/momiji-alpha.34a7b08b99068b4a15b0.png",
+    "main.js": "/static/js/main.346ac680.js",
+    "static/media/momiji.png": "/static/media/momiji.34a7b08b99068b4a15b0.png",
     "static/media/keys.png": "/static/media/keys.3dd2e4090f3da247070f.png",
     "index.html": "/index.html",
     "static/media/sine.svg": "/static/media/sine.0b39c538ab24d0ab4e0646d88b44a547.svg",
@@ -10,10 +10,10 @@
     "static/media/saw.svg": "/static/media/saw.f9c39ef93468f934ab0b401babb91aeb.svg",
     "static/media/square.svg": "/static/media/square.ec8c2e510f089c98304836fa3dfe0b7f.svg",
     "main.65cc63ec.css.map": "/static/css/main.65cc63ec.css.map",
-    "main.01d44615.js.map": "/static/js/main.01d44615.js.map"
+    "main.346ac680.js.map": "/static/js/main.346ac680.js.map"
   },
   "entrypoints": [
     "static/css/main.65cc63ec.css",
-    "static/js/main.01d44615.js"
+    "static/js/main.346ac680.js"
   ]
 }
